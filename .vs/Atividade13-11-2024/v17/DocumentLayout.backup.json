@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Atividade13-11-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F19237-BFD3-44AC-9041-9F4E02FC1A0F}|Atividade13-11-2024.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\atividade13-11-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F19237-BFD3-44AC-9041-9F4E02FC1A0F}|Atividade13-11-2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F19237-BFD3-44AC-9041-9F4E02FC1A0F}|Atividade13-11-2024.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\atividade13-11-2024\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F19237-BFD3-44AC-9041-9F4E02FC1A0F}|Atividade13-11-2024.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Atividade13-11-2024\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Atividade13-11-2024\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:11:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Atividade13-11-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\Atividade13-11-2024\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:34:58.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

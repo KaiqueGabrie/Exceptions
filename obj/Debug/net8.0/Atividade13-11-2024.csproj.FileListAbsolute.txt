@@ -1,0 +1,14 @@
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\bin\Debug\net8.0\Atividade13-11-2024.exe
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\bin\Debug\net8.0\Atividade13-11-2024.deps.json
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\bin\Debug\net8.0\Atividade13-11-2024.runtimeconfig.json
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\bin\Debug\net8.0\Atividade13-11-2024.dll
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\bin\Debug\net8.0\Atividade13-11-2024.pdb
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.AssemblyInfoInputs.cache
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.AssemblyInfo.cs
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.csproj.CoreCompileInputs.cache
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.dll
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\refint\Atividade13-11-2024.dll
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.pdb
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\Atividade13-11-2024.genruntimeconfig.cache
+C:\Users\2023202060015\OneDrive - ifro.edu.br\3 -- Periodo\Programação orientada a objetos\Atividade13-11-2024\obj\Debug\net8.0\ref\Atividade13-11-2024.dll
